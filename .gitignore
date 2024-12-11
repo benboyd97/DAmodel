@@ -1,0 +1,4 @@
+.DS_STORE
+data
+__pycache__
+hubeny_grid.npz
