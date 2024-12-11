@@ -8,7 +8,9 @@ Clone repository: `git clone https://github.com/benboyd97/DAmodel.git`
 
 Open folder: `cd DAmodel`
 
-Download data: `wget https://zenodo.org/records/14339961/files/DA_WD_Boyd_et_al.zip -O DA_WD_Boyd_et_al.zip`
+Download data: 
+
+```wget https://zenodo.org/records/14339961/files/DA_WD_Boyd_et_al.zip -O DA_WD_Boyd_et_al.zip```
 
 Unzip the data enter: `gunzip DA_WD_Boyd_et_al.zip`
 
