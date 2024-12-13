@@ -1,6 +1,6 @@
 # DAmodel
 
-Implementation of DAmodel from Boyd et al. (in prep). All data used in the paper can be found at: [https://zenodo.org/records/14339961](https://zenodo.org/records/14339961)
+Implementation of DAmodel from [Boyd et al.](https://arxiv.org/abs/2412.08809) All data used in the paper can be found at: [https://zenodo.org/records/14339961](https://zenodo.org/records/14339961)
 
 ## Instructions
 
